@@ -139,3 +139,7 @@ footer {
         grid-column: 1;
     }
 }
+
+h1 {
+    display: none;
+}
